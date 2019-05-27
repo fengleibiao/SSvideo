@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{BADBF27C-0F1E-400A-B141-F4FC10D77A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing", "Drawing\Drawing.csproj", "{92551A06-63B3-483E-931F-10A1DEDA6EBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "测试Demo", "测试Demo", "{41E177AA-81BF-4F11-AEFF-AB56B9F7D52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADBF27C-0F1E-400A-B141-F4FC10D77A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADBF27C-0F1E-400A-B141-F4FC10D77A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADBF27C-0F1E-400A-B141-F4FC10D77A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADBF27C-0F1E-400A-B141-F4FC10D77A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92551A06-63B3-483E-931F-10A1DEDA6EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92551A06-63B3-483E-931F-10A1DEDA6EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92551A06-63B3-483E-931F-10A1DEDA6EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92551A06-63B3-483E-931F-10A1DEDA6EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E042CC-566B-49C1-BC20-E52D37EEC4C0}
+	EndGlobalSection
+EndGlobal
